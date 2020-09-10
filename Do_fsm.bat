@@ -1,0 +1,1 @@
+vsim -do Do_fsm.do
